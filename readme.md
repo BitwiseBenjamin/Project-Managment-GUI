@@ -1,5 +1,8 @@
 ## Effort Logger
 
+## Documentation
+[Phase 6 Submission Template V1.pdf](https://github.com/BitwiseBenjamin/Project-Managment-GUI/files/11730531/Phase.6.Submission.Template.V1.pdf)
+
 -- RUN INSTRUCTIONS --
 1. Open project in Eclipse
 2. Right click on project within Eclipse -> Build path -> Configure Build Path
