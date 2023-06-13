@@ -9,16 +9,16 @@
 <img width="521" alt="Screenshot 2023-06-13 at 11 14 23 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/d5bbf1a7-edf6-45bb-be9a-6424531644c6">
 
 - Project Overview: The project overview page gives the user a overview of all the projects they are apart of part of.
-<img width="792" alt="Screenshot 2023-06-13 at 11 15 46 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/8ede5569-628b-4eef-94ab-ab4cb5989857">
+<img width="520" alt="Screenshot 2023-06-13 at 11 15 46 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/8ede5569-628b-4eef-94ab-ab4cb5989857">
 
 - Data Analysis: This page takes the data stored in SQL for each project and displays in a graph or list to allow managers to keep track of the projects progress.
-<img width="917" alt="Screenshot 2023-06-13 at 11 16 49 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/df1b4062-c678-4975-8c1f-36361950bb5e">
+<img width="520" alt="Screenshot 2023-06-13 at 11 16 49 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/df1b4062-c678-4975-8c1f-36361950bb5e">
 
 - Effort and Defect Logging: These pages allow the user to add their effort and defect objects to the project database.
-<img width="402" alt="Screenshot 2023-06-13 at 11 17 36 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/22182ab0-1268-4d2e-b7bf-a6274620e7ff">
+<img width="520" alt="Screenshot 2023-06-13 at 11 17 36 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/22182ab0-1268-4d2e-b7bf-a6274620e7ff">
 
 - Efeort and Defect Updating: These pages allow the user to update their effort and defect objects to the project database.
-<img width="405" alt="Screenshot 2023-06-13 at 11 18 26 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/055bc180-c0a9-49b7-98c3-abe66e5109cc">
+<img width="520" alt="Screenshot 2023-06-13 at 11 18 26 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/055bc180-c0a9-49b7-98c3-abe66e5109cc">
 
 
 
