@@ -1,4 +1,4 @@
-This is Group M32's EffortLogger project.
+## Effort Logger
 
 -- RUN INSTRUCTIONS --
 1. Open project in Eclipse
