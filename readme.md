@@ -3,6 +3,21 @@
 ## Documentation
 [Phase 6 Submission Template V1.pdf](https://github.com/BitwiseBenjamin/Project-Managment-GUI/files/11730531/Phase.6.Submission.Template.V1.pdf)
 
+## Project Description
+
+- Login: This page takes a username and password from the user, authenticates it with an SQL database and authorizes the user with the correct role and user session.
+<img width="521" alt="Screenshot 2023-06-13 at 11 14 23 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/d5bbf1a7-edf6-45bb-be9a-6424531644c6">
+
+- Project Overview: The project overview page gives the user a overview of all the projects they are apart of part of.
+<img width="792" alt="Screenshot 2023-06-13 at 11 15 46 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/8ede5569-628b-4eef-94ab-ab4cb5989857">
+
+- Data Analysis: This page takes the data stored in SQL for each project and displays in a graph or list to allow managers to keep track of the projects progress.
+<img width="917" alt="Screenshot 2023-06-13 at 11 16 49 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/df1b4062-c678-4975-8c1f-36361950bb5e">
+
+- Effort and Defect Logging:
+- Efeort and Defect Updating:
+
+
 -- RUN INSTRUCTIONS --
 1. Open project in Eclipse
 2. Right click on project within Eclipse -> Build path -> Configure Build Path
