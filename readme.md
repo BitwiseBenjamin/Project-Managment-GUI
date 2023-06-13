@@ -14,8 +14,12 @@
 - Data Analysis: This page takes the data stored in SQL for each project and displays in a graph or list to allow managers to keep track of the projects progress.
 <img width="917" alt="Screenshot 2023-06-13 at 11 16 49 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/df1b4062-c678-4975-8c1f-36361950bb5e">
 
-- Effort and Defect Logging:
-- Efeort and Defect Updating:
+- Effort and Defect Logging: These pages allow the user to add their effort and defect objects to the project database.
+<img width="402" alt="Screenshot 2023-06-13 at 11 17 36 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/22182ab0-1268-4d2e-b7bf-a6274620e7ff">
+
+- Efeort and Defect Updating: These pages allow the user to update their effort and defect objects to the project database.
+<img width="405" alt="Screenshot 2023-06-13 at 11 18 26 AM" src="https://github.com/BitwiseBenjamin/Project-Managment-GUI/assets/114360780/055bc180-c0a9-49b7-98c3-abe66e5109cc">
+
 
 
 -- RUN INSTRUCTIONS --
